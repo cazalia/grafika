@@ -44,7 +44,7 @@ int main(int argc, char* argv[])
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
     glutInitWindowSize(500, 500);
     glutInitWindowPosition(100, 100);
-    glutCreateWindow("Yudhiawan - 223111020 - Gambar Awan Sederhana");
+    glutCreateWindow("Gambar Awan Sederhana");
     init();
     glutDisplayFunc(display);
     glutMainLoop();
